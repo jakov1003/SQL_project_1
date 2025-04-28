@@ -1,6 +1,6 @@
 /*
 Tutorial question: What are the most in-demand skills for data engineers?
-- Identify top 5 in-demand skills for a data engineer
+- Identify the top 5 in-demand skills for a data engineer
 - Focus on all job postings
 Result: provide insights into the most valuable skills for job seekers
 (I'd perhaps pair most with "in-demand" instead of "valuable") 
@@ -27,11 +27,11 @@ LIMIT 5;
 
 /* 
 Insights:
-SQL, Python, AWS, Azure and Spark were the 5 most in-demand
+SQL, Python, AWS, Azure, and Spark were the 5 most in-demand
 skills for data engineers in 2023. This differs from the
 top 10 highest-paying remote data engineer jobs. 
 
-Kafka and Hadoop were amognst the most sought-after skills in the top 10
+Kafka and Hadoop were among the most sought-after skills in the top 10
 highest-paying remote DE jobs, but ranked 7th and 8th by demand
 in all data engineer job postings in 2023.
 /*
