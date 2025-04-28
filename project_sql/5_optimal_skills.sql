@@ -1,6 +1,6 @@
 /*
 Tutorial question: What are the most optimal skills to learn (aka it's in 
-high demand and a high-paying skills)?
+high demand and a high-paying skill)?
 - Identify skills in high demand and associated with high average salaries for 
 Data Engineer roles
 - Concentrate on remote positions with specified salaries
@@ -43,25 +43,25 @@ LIMIT 10;
 /* 
 Insights and explanations:
 Kafka was the most optimal skill to learn for remote data 
-engineer jobs in 2023. Mongo, rust, perl, neo4j and assembly
-were not highly demanded, but knowning them paid off.
+engineer jobs in 2023. Mongo, rust, perl, neo4j, and assembly
+were not highly demanded, but knowing them paid off.
 
 I decided to find the most optimal skill(s) by ranking 
-them on demand (the job_count column) and salary then 
+them on demand (the job_count column) and salary, then 
 summing and averaging these ranks. The lower the
 average rank, the more optimal the skill.
 
-I actually deviated from the tutorial question a bit,
+I deviated from the tutorial question a bit,
 because a skill being optimal does not necessarily mean
 both high salary and high demand. It's the combination
 of the two.
     
 The tutor's approach differs greatly from mine, but
-both are more than vaild in my opinion. I think that my
-approach offers instantenous answers, while the tutor's requires
+both are more than valid. My
+approach offers instant answers, while the tutor's requires
 further interpretation. I am not saying that my approach beats
-a world-renowned SQL expert's, I am just opining about 
-how each one could be used.
+a world-renowned SQL expert's, I am just opining 
+how each could be used.
 */
 
 /*
