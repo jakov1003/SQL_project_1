@@ -3,9 +3,9 @@ My project from the [Learn SQL in 4 Hours tutorial](https://www.youtube.com/watc
 
 I answered the questions from the tutorial without looking at the tutor's solutions.
 
-If you'd like to take a more in-depth look at my queries, you can do that [here](/project_sql/).
+You can find the full query outputs in this README, except for the second query. For that query, due to the output size, I put the link to the CSV file I uploaded in the project folder.
 
-You can find the full query outputs in this README, except for the second query. For that query, due to the output size, I put the link to the CSV file I uploaded here on GitHub.
+If you'd like to take a more in-depth look at my queries, view tutorial questions in their full form, or compare my solution to the tutor's, you can do that [here](/project_sql/).
 
 
 # Shortened Questions
