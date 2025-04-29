@@ -20,7 +20,7 @@ WITH remote_jobs AS (
     FROM
         job_postings_fact AS jpf
     /*I used an INNER JOIN instead of LEFT
-    due to not wanting jobs which are not 
+    due to not wanting jobs that are not 
     associated with a company */
     INNER JOIN
         company_dim AS cd ON cd.company_id = jpf.company_id
@@ -42,8 +42,8 @@ Insights:
 The salaries ranged from 242000$ per year to 325000$.
 
 We can notice a pattern of outsourcing recruitment. 6 and probably 7 out of the top 10 jobs 
-were advertised by recruiting companies and one platform. Twitch, Moveable Ink and
-Meta were the three comapnies directly hiring and offering top salaries to
+were advertised by recruiting companies and one platform. Twitch, Moveable Ink, and
+Meta were the three companies directly hiring and offering top salaries to
 data engineers.
 /*
 

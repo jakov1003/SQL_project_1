@@ -27,11 +27,11 @@ LIMIT 10;
 
 /*
 Insights:
-Intrestingly, none of the top 10 skills with the highest
-average salary were amognst the skills required by
+Interestingly, none of the top 10 skills with the highest
+average salary were among the skills required by
 the top 10 highest-paying remote data engineer jobs in 2023.
 
-Also, none of them fell in the most demanded skills
+Also, none of them fell in the most in-demand skills
 category.
 */
 

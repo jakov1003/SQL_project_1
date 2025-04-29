@@ -46,7 +46,7 @@ INNER JOIN
 
 /* 
 Insights:
-Python, Spark, Kafka and Hadoop were the most prevalent skills found
+Python, Spark, Kafka, and Hadoop were the most prevalent skills found
 in the job postings for the top 10 highest-paying remote data engineer roles in 2023.
 /*
 

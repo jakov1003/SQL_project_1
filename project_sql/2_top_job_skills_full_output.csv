@@ -1,0 +1,45 @@
+skill,job_id,job_title,job_location,job_schedule_type,avg_yearly_salary,company_name,job_posted_date
+python,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+spark,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+pandas,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+numpy,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+pyspark,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+hadoop,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+kafka,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+kubernetes,21321,Data Engineer,Anywhere,Full-time,325000,Engtal,1/27/2023 18:10
+python,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+spark,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+pandas,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+numpy,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+pyspark,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+hadoop,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+kafka,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+kubernetes,157003,Data Engineer,Anywhere,Full-time,325000,Engtal,2/17/2023 18:11
+sql,270455,Data Engineer,Anywhere,Full-time,300000,Durlston Partners,7/17/2023 11:10
+python,270455,Data Engineer,Anywhere,Full-time,300000,Durlston Partners,7/17/2023 11:10
+spark,230458,Director of Engineering - Data Platform,Anywhere,Full-time,251000,Twitch,1/30/2023 11:07
+hadoop,230458,Director of Engineering - Data Platform,Anywhere,Full-time,251000,Twitch,1/30/2023 11:07
+kafka,230458,Director of Engineering - Data Platform,Anywhere,Full-time,251000,Twitch,1/30/2023 11:07
+tensorflow,230458,Director of Engineering - Data Platform,Anywhere,Full-time,251000,Twitch,1/30/2023 11:07
+keras,230458,Director of Engineering - Data Platform,Anywhere,Full-time,251000,Twitch,1/30/2023 11:07
+pytorch,230458,Director of Engineering - Data Platform,Anywhere,Full-time,251000,Twitch,1/30/2023 11:07
+python,595768,Principal Data Engineer,Anywhere,Full-time,250000,Signify Technology,2/14/2023 15:24
+scala,595768,Principal Data Engineer,Anywhere,Full-time,250000,Signify Technology,2/14/2023 15:24
+databricks,595768,Principal Data Engineer,Anywhere,Full-time,250000,Signify Technology,2/14/2023 15:24
+spark,595768,Principal Data Engineer,Anywhere,Full-time,250000,Signify Technology,2/14/2023 15:24
+python,561728,Data Engineer,Anywhere,Full-time,250000,AI Startup,3/24/2023 23:32
+scala,561728,Data Engineer,Anywhere,Full-time,250000,AI Startup,3/24/2023 23:32
+r,561728,Data Engineer,Anywhere,Full-time,250000,AI Startup,3/24/2023 23:32
+azure,561728,Data Engineer,Anywhere,Full-time,250000,AI Startup,3/24/2023 23:32
+python,543728,Staff Data Engineer,Anywhere,Full-time,250000,Signify Technology,3/28/2023 13:11
+scala,543728,Staff Data Engineer,Anywhere,Full-time,250000,Signify Technology,3/28/2023 13:11
+databricks,543728,Staff Data Engineer,Anywhere,Full-time,250000,Signify Technology,3/28/2023 13:11
+spark,543728,Staff Data Engineer,Anywhere,Full-time,250000,Signify Technology,3/28/2023 13:11
+go,204320,Staff Data Engineer,Anywhere,Full-time,245000,Handshake,1/8/2023 15:05
+nosql,151972,Principal Data Engineer (Remote),Anywhere,Full-time,245000,Movable Ink,5/25/2023 15:05
+aws,151972,Principal Data Engineer (Remote),Anywhere,Full-time,245000,Movable Ink,5/25/2023 15:05
+gcp,151972,Principal Data Engineer (Remote),Anywhere,Full-time,245000,Movable Ink,5/25/2023 15:05
+sql,609418,Data Engineering Manager,Anywhere,Full-time,242000,Meta,12/8/2023 14:04
+python,609418,Data Engineering Manager,Anywhere,Full-time,242000,Meta,12/8/2023 14:04
+java,609418,Data Engineering Manager,Anywhere,Full-time,242000,Meta,12/8/2023 14:04
+perl,609418,Data Engineering Manager,Anywhere,Full-time,242000,Meta,12/8/2023 14:04
