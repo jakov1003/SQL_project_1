@@ -25,7 +25,7 @@ You can find the full query outputs in this README, except for the second query.
 
 # The Analysis
 
-### 1.Top Paying Remote Data Engineer Jobs in 2023
+## 1.Top Paying Remote Data Engineer Jobs in 2023
 
 ```sql
 WITH remote_jobs AS (
@@ -58,14 +58,14 @@ ORDER BY
     avg_yearly_salary DESC
 LIMIT 10;
 ```
-## Insights:
+### Insights:
 
 - **Salaries:** the average salaries ranged from 242 000$ to 325 000$
 - **Outsourced recruitment:** 6 and probably 7 out of the top 10 jobs were advertised by recruiting companies and one platform 
 - **No intermediaries:** Twitch, Moveable Ink and
 Meta were the three companies directly hiring and offering top salaries to data engineers.
 
-## Full Query Output
+### Full Query Output
 
 | Job ID  | Job Title                                   | Location | Schedule Type | Avg. Yearly Salary | Company Name        | Job Posted Date     |
 |---------|---------------------------------------------|----------|----------------|---------------------|----------------------|----------------------|
@@ -82,7 +82,7 @@ Meta were the three companies directly hiring and offering top salaries to data 
 
 
 
-### 2.Skills for Top-Paying Remote Data Engineer Jobs in 2023
+## 2.Skills for Top-Paying Remote Data Engineer Jobs in 2023
 
 ```sql
 WITH remote_jobs AS (
@@ -117,10 +117,10 @@ INNER JOIN
 INNER JOIN 
     skills_dim AS sd ON sd.skill_id = sjd.skill_id;
 ```  
-## Insights:
+### Insights:
 - **Top skills in top 10 remote DE jobs:** Python, Spark, Kafka, Hadoop
 
-## Click [here](https://github.com/jakov1003/SQL_project_1/blob/main/project_sql/2_top_job_skills_full_output.csv) for full query output
+### Click [here](https://github.com/jakov1003/SQL_project_1/blob/main/project_sql/2_top_job_skills_full_output.csv) for full query output
 
 
 
@@ -145,14 +145,14 @@ ORDER BY
     job_count DESC
 LIMIT 5;
 ``` 
-**Insights:**
+### Insights:
 
 - **Most demanded skills:** SQL, Python, AWS, Azure, Spark
 - **Different levels, different requirements:** Kafka and Hadoop were among the most sought-after skills in the top 10
 highest-paying remote DE jobs, but ranked 7th and 8th by demand
 in all data engineer job postings in 2023.
 
-## Full Query Output with Limit 5
+### Full Query Output with Limit 5
 
 | Skill  | Job Count |
 |--------|-----------|
@@ -162,7 +162,7 @@ in all data engineer job postings in 2023.
 | Azure  | 60,823    |
 | Spark  | 53,789    |
 
-## Full Query Output with Limit 10
+### Full Query Output with Limit 10
 
 | Skill      | Job Count |
 |------------|-----------|
@@ -200,14 +200,14 @@ ORDER BY
     salary_per_skill DESC
 LIMIT 10;
 ``` 
-**Insights:**
+### Insights:
 
 - **Average does not mean top of the line:** Interestingly, none of the top 10 skills with the highest
 average salary were among the skills required by
 the top 10 highest-paying remote data engineer jobs in 2023. Also, none of them fell in the most demanded skills
 category.
 
-## Full Query Output
+### Full Query Output
 
 | Skill       | Average Salary ($) |
 |-------------|--------------------|
@@ -265,7 +265,7 @@ ORDER BY
     avg_rank ASC
 LIMIT 10;
 ``` 
-## Insights and explanations:
+### Insights and explanations:
 - **I wanna work from home:** Kafka was the most optimal skill to learn for remote data 
 engineer jobs in 2023. 
 - **Learning niche skills:** Mongo, rust, perl, neo4j and assembly
@@ -281,7 +281,7 @@ in my opinion, a skill being optimal does not necessarily mean
 both high salary and high demand. It's the combination
 of the two.
 
-## Full Query Output
+### Full Query Output
 
 | Skill      | Job Count | Avg Salary ($) | Job Count Rank | Salary Rank | Avg Rank |
 |------------|-----------|----------------|----------------|-------------|----------|
