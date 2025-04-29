@@ -274,7 +274,7 @@ were not highly demanded, but knowing them paid off.
 - **Method:** I decided to find the most optimal skill(s) by ranking 
 them on demand (the job_count column) and salary, then 
 summing and averaging these ranks. The lower the
-average rank, the more optimal the skill. My approach differs greatly from the tutor's, but we both got valuable insights
+average rank, the more optimal the skill. My approach differed greatly from the tutor's, but we both got valuable insights.
 
 - **My understanding:** I deviated from the tutorial question a bit, because,
 in my opinion, a skill being optimal does not necessarily mean
