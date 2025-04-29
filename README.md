@@ -9,7 +9,7 @@ You can find the full query outputs in this README, except for the second query.
 
 
 # Shortened Questions
-- What are the top-paying data engineer jobs?
+- 1.What are the top-paying data engineer jobs?
 - 2.What skills are required for these top-paying jobs?
 - 3.What skills are most in demand for data engineers?
 - 4.What skills are associated with higher salaries?
@@ -125,7 +125,7 @@ INNER JOIN
 
 
 ## 3.Most in-demand skills for data engineers in 2023
-This query focused on all jobs, and not just the highest-paying remote roles.
+This query focused on __all__ jobs, not just the highest-paying remote roles.
 
 ```sql
 SELECT
@@ -149,8 +149,8 @@ LIMIT 5;
 
 - **Most demanded skills:** SQL, Python, AWS, Azure, Spark
 - **Different levels, different requirements:** Kafka and Hadoop were among the most sought-after skills in the top 10
-highest-paying remote DE jobs, but ranked 7th and 8th by demand
-in all data engineer job postings in 2023.
+highest-paying __remote__ DE jobs, but ranked 7th and 8th by demand
+in __all__ data engineer job postings in 2023.
 
 ### Full Query Output with Limit 5
 
@@ -180,7 +180,7 @@ in all data engineer job postings in 2023.
 
 ## 4.Skills with the Highest Average Salary
 
-This query, once again, explored all DE roles and not just remote jobs.
+This query, once again, explored __all__ DE roles and not just remote jobs.
 
 ```sql
 SELECT
@@ -266,7 +266,7 @@ ORDER BY
 LIMIT 10;
 ``` 
 ### Insights and explanations:
-- **I wanna work from home:** Kafka was the most optimal skill to learn for remote data 
+- **I wanna work from home:** Kafka was the most optimal skill to learn for __remote__ data 
 engineer jobs in 2023. 
 - **Learning niche skills:** Mongo, rust, perl, neo4j and assembly
 were not highly demanded, but knowing them paid off.
