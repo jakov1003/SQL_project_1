@@ -296,12 +296,12 @@ of the two.
 | Neo4j      | 8         | 166,559        | 50             | 7           | 29       |
 | Assembly   | 1         | 192,500        | 57             | 1           | 29       |
 
-0
-# Perfection is hard to come by
+
+## Perfection is hard to come by
 - **One too many nicknames:** By using aliases, I tried being as clear as possible regarding which column belongs to which table. However, that might have resulted in overuse. I did keep them short and as consistent as possible.
 - **Some of this, some of that:** Queries 1, 2, and 5 explored remote roles, while queries 3 and 4 explored all roles. In this case, I decided to follow the tasks' structure, although exploring only remote or all roles might have been a better option.
 
 
-# What I Learned
+## What I Learned
 - **Refresh, repeat, upgrade:** I've refreshed my knowledge on various SQL concepts and improved my problem-solving and logical skills. 
 - **Doing it properly:** I have used GitHub before, but only via browser and without Git. This was my first experience using Git and GitHub combined with VS Code. Consequently, I have developed a more comprehensive understanding of committing, pushing, pulling, and syncing.
