@@ -11,7 +11,7 @@ If you'd like to take a more in-depth look at my queries, view tutorial question
 # Shortened Questions
 - 1.What are the top-paying remote data engineer jobs?
 - 2.What skills are required for these top-paying remote jobs?
-- 3.What skills are most in demand for data engineer?
+- 3.What skills are most in demand for a data engineer?
 - 4.What skills are associated with higher salaries?
 - 5.What are the most optimal skills to learn for remote data engineer jobs?
 
