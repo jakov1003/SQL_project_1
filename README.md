@@ -298,7 +298,7 @@ of the two.
 
 
 ## Perfection is hard to come by
-- **One too many nicknames:** By using aliases, I tried being as clear as possible regarding which column belongs to which table. However, that might have resulted in overuse. I did keep them short and as consistent as possible.
+- **One too many nicknames:** By using aliases, I tried being as clear as possible regarding which columns belong to which table. However, that might have resulted in overuse. I did keep them short and as consistent as possible.
 - **Some of this, some of that:** Queries 1, 2, and 5 explored remote roles, while queries 3 and 4 explored all roles. In this case, I decided to follow the tasks' structure, although exploring only remote or all roles might have been a better option.
 
 
