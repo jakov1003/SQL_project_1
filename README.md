@@ -9,11 +9,11 @@ If you'd like to take a more in-depth look at my queries, view tutorial question
 
 
 # Shortened Questions
-- 1.What are the top-paying data engineer jobs?
-- 2.What skills are required for these top-paying jobs?
-- 3.What skills are most in demand for data engineers?
+- 1.What are the top-paying remote data engineer jobs?
+- 2.What skills are required for these top-paying remote jobs?
+- 3.What skills are most in demand for a data engineer?
 - 4.What skills are associated with higher salaries?
-- 5.What are the most optimal skills to learn?
+- 5.What are the most optimal skills to learn for remote data engineer jobs?
 
 (These questions are in the present tense, but I (mostly) used the past tense when writing insights due to possible changes in the job market from 2023.)
 
@@ -297,3 +297,11 @@ of the two.
 | Assembly   | 1         | 192,500        | 57             | 1           | 29       |
 
 
+## Perfection is hard to come by
+- **One too many nicknames:** By using aliases, I tried being as clear as possible regarding which columns belong to which table. However, that might have resulted in overuse. I did keep them short and as consistent as possible.
+- **Some of this, some of that:** Queries 1, 2, and 5 explored remote roles, while queries 3 and 4 explored all roles. In this case, I decided to follow the tasks' structure, although exploring only remote or all roles might have been a better option.
+
+
+## What I Learned
+- **Refresh, repeat, upgrade:** I've refreshed my knowledge on various SQL concepts and improved my problem-solving and logical skills. 
+- **Doing it properly:** I have used GitHub before, but only via browser and without Git. This was my first experience using Git and GitHub combined with VS Code. Consequently, I have developed a more comprehensive understanding of version control, committing, pushing, pulling, and syncing.
