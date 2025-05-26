@@ -25,8 +25,12 @@ If you'd like to take a more in-depth look at my queries, view tutorial question
 - **Git & Github** (for version control and sharing) 
 
 # Database Schema
+<details>
+    <summary> Click the dropdown triangle before this statement if you would like to view the database schema</summary>
 
 ![alt text](Schema.png)
+
+</details>
 
 # The Analysis
 
