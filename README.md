@@ -20,8 +20,13 @@ If you'd like to take a more in-depth look at my queries, view tutorial question
 # Tools I Used
 - **SQL**
 - **PostgreSQL**
+- **pgAdmin**
 - **Visual Studio Code**
 - **Git & Github** (for version control and sharing) 
+
+# Database Schema
+
+![alt text](Schema.png)
 
 # The Analysis
 
