@@ -26,7 +26,7 @@ If you'd like to take a more in-depth look at my queries, view tutorial question
 
 # Database Schema
 <details>
-    <summary> Click the dropdown triangle before this statement if you would like to view the database schema</summary>
+    <summary> Click the dropdown triangle before this statement if you would like to view the database schema visualized as an entity relationship diagram</summary>
 
 ![alt text](Schema.png)
 
